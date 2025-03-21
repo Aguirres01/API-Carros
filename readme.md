@@ -47,7 +47,7 @@ Esta API permite o cadastro e a listagem de carros, integrando-se a um frontend 
 ## 📦 Como Rodar o Projeto
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/api-carros.git
+   git clone git@github.com:Aguirres01/API-Carros.git
    ```
 2. Acesse o diretório do projeto:
    ```bash
